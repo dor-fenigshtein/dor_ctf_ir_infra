@@ -1,0 +1,3 @@
+https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Invoke-Mimikatz.ps1
+https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/
